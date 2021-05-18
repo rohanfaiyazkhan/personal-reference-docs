@@ -1,0 +1,7 @@
+# Curl
+
+## Saving curl output to a file
+
+```bash
+curl -o github-markdown.css https://github.com/sindresorhus/github-markdown-css/blob/gh-pages/github-markdown.css 
+```
